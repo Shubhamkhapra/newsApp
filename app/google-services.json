@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123620426945",
+    "firebase_url": "https://shubhamnewsapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shubhamnewsapp",
+    "storage_bucket": "shubhamnewsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123620426945:android:1e7a157e545ce2e397c040",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123620426945-lrlgschn3l118d165m35c31e1huebq1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDQ03ga7s17NGNrQqHjQmHJJUtPbmjfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123620426945-lrlgschn3l118d165m35c31e1huebq1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
